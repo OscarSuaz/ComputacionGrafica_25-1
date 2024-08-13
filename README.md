@@ -1,2 +1,17 @@
-# ComputacionGrafica_25-1
-Repositorio enfocado en el trabajo de las prácticas de laboratorio de la materia Computación Gráfica e Interacción Humano Computadora
+# UNIVERSIDAD NACIONAL
+# AUTÓNOMA DE MÉXICO
+
+## FACULTAD DE INGENERÍA
+## INGENIERÍA EN COMPUTACIÓN
+
+### Repositorio prácticas de laboratorio
+### ASIGNATURA:
+
+#### LABORATORIO DE CHeIHC
+#### PROFESOR DE LABORATORIO:
+#### ING. JOSE ROQUE ROMAN GUADARRAMA
+#### GRUPO DE LABORATORIO:
+#### 03
+
+#### ALUMNO
+#### SUAZNAVAR ARVIZU OSCAR MANUEL - 318265849
